@@ -32,9 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisvishesh&show_icons=true&locale=en" alt="whoisvishesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisvishesh&" alt="whoisvishesh" /></p>
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31j55nxc3frcepeiaul5mtkesdom&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
