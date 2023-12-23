@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vishesh</h1>
-<h3 align="center">A dedicated and reliable individual with a strong foundation vision in data, excited to begin my career as an analyst</h3>
+<h3 align="center">A dedicated product individual with a strong foundational vision in data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoisvishesh&label=Profile%20views&color=0e75b6&style=flat" alt="whoisvishesh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/whoisvishesh" target="blank"><img src="https://img.shields.io/twitter/follow/whoisvishesh?logo=twitter&style=for-the-badge" alt="whoisvishesh" /></a> </p>
 
-- 🔭 I’m currently working as **Product intern at MatchMove**
+- 🔭 I’m currently working as **Data Product Manager at MatchMove**
 
-- 🌱 I’m currently learning **MongoDB, DAW**
+- 🌱 I’m currently leanrning **Machine learning**
 
-- 🤝 I’m looking for help with **Data analyst, Data Science**
+- 🤝 I’m looking for help to get started in the **Open source world**
 
-- 📫 How to reach me **vishesh.chintan1206@gmail.com**
+- 📫 Feel free to reachout me on **vishesh.chintan1206@gmail.com**
 
-- ⚡ Fun fact **I am hyper active on Twitter**
+- ⚡ Fun fact **I love building and contributing in communities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
